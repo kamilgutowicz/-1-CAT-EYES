@@ -1,0 +1,8 @@
+.cat-box, .buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
+
+.eye-color{ fill:#0000ff; }
+
